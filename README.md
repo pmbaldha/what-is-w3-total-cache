@@ -2,7 +2,7 @@
 
 ## Description
 
-In this lesson you will learn about the benefits of using the W3 Total Cache plugin for enhancing your website's speed, and you will learn how to install and configure it properly to cover your website's needs.
+In this module, you will learn about the benefits of using the W3 Total Cache plugin for enhancing your website's speed, and you will learn how to install and configure it properly to cover your website's needs.
 
 * * *
 
